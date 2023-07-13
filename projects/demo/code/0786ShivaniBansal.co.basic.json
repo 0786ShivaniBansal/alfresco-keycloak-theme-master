@@ -65,9 +65,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1098.2251586914062,
@@ -139,7 +140,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -212,7 +214,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -286,7 +289,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -361,7 +365,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authResult.success"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -436,7 +441,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "creds"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -507,7 +513,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -578,7 +585,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -650,7 +658,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "cdiUtil"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -722,7 +731,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authService"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -741,8 +751,8 @@
 				"id": "Agama-start-Flow-58ca7215-4b7f-458b-a923-6f1020881983",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 18,
-					"y": 82
+					"x": 19,
+					"y": 84
 				},
 				"handles": [],
 				"inRepeatBlock": false,
@@ -781,16 +791,16 @@
 					"exceptionVariableField": "",
 					"flowname": "0786ShivaniBansal.co.basic"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
-				"x": 18,
-				"y": 82
+				"x": 19,
+				"y": 84
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
-				"x": 18,
-				"y": 82
+				"x": 19,
+				"y": 84
 			},
 			"dragging": false
 		}
@@ -971,7 +981,7 @@
 		}
 	],
 	"viewport": {
-		"x": -22.5501708984375,
+		"x": 10,
 		"y": 15,
 		"zoom": 1
 	}
