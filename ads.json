@@ -26,5 +26,19 @@
         "tags": [
             "jans"
         ]
+    },
+    "demo": {
+        "projectName": "demo",
+        "description": "demo for creating flows",
+        "type": "community",
+        "author": "0786ShivaniBansal",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
+        "githubUri": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
+        "license": "MIT",
+        "lastUpdated": "1689240692027",
+        "tags": [
+            "jans"
+        ]
     }
 }
