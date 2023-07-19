@@ -1,18 +1,4 @@
 {
-    "agama": {
-        "projectName": "agama",
-        "description": "demo",
-        "type": "community",
-        "author": "0786ShivaniBansal",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
-        "githubUri": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
-        "license": "MIT",
-        "lastUpdated": "1688032782040",
-        "tags": [
-            "openid-connect"
-        ]
-    },
     "test": {
         "projectName": "test",
         "description": "test1",
