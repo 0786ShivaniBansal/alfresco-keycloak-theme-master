@@ -40,5 +40,19 @@
         "tags": [
             "jans"
         ]
+    },
+    "kiran_first": {
+        "projectName": "kiran_first",
+        "description": "first project",
+        "type": "community",
+        "author": "0786ShivaniBansal",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
+        "githubUri": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
+        "license": "MIT",
+        "lastUpdated": "1689758922003",
+        "tags": [
+            "jans"
+        ]
     }
 }
