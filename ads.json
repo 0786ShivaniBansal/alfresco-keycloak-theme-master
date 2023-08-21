@@ -12,5 +12,19 @@
         "tags": [
             "jans"
         ]
+    },
+    "resetpassword": {
+        "projectName": "resetpassword",
+        "description": "resetting password",
+        "type": "community",
+        "author": "0786ShivaniBansal",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
+        "githubUri": "https://github.com/0786ShivaniBansal/alfresco-keycloak-theme-master",
+        "license": "MIT",
+        "lastUpdated": "1692614003444",
+        "tags": [
+            "jans"
+        ]
     }
 }
