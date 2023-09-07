@@ -65,7 +65,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -90,7 +91,8 @@
 				"position": {
 					"x": 856.9507006430154,
 					"y": 23.97954804792107
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -137,7 +139,8 @@
 					"arguments": "creds.username",
 					"displayName": "fraud_detected",
 					"nodeIcon": "material-symbols:code"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -197,7 +200,8 @@
 					"hasNoRepeat": false,
 					"hasRepeat": false,
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -252,7 +256,8 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 472.7725243336573,
@@ -298,7 +303,8 @@
 					"templatePath": "uid-form.ftlh",
 					"displayName": "UID Form",
 					"nodeIcon": "ph:globe-simple"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -367,7 +373,8 @@
 					"hasComment": true
 				},
 				"inRepeatBlock": false,
-				"whenCondition": ""
+				"whenCondition": "",
+				"skake": false
 			},
 			"position": {
 				"x": 32,
