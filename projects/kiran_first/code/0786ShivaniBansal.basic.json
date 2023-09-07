@@ -3,15 +3,15 @@
 		{
 			"width": 170,
 			"height": 122,
-			"id": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
+			"id": "Agama-trigger-Node-561a969c-f5fb-4e3a-b294-5af2d66f2a4c",
 			"position": {
 				"x": 1202.0769226853927,
 				"y": 271.8019180045865
 			},
-			"type": "assignment",
+			"type": "trigger",
 			"data": {
-				"id": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
-				"type": "Agama-assignment-Node",
+				"id": "Agama-trigger-Node-561a969c-f5fb-4e3a-b294-5af2d66f2a4c",
+				"type": "Agama-trigger-Node",
 				"parentId": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
 				"whenCondition": "",
 				"inRepeatBlock": false,
@@ -20,8 +20,8 @@
 					"y": 271.8019180045865
 				},
 				"agamaData": {
-					"id": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
-					"type": "Agama-assignment-Node",
+					"id": "Agama-trigger-Node-561a969c-f5fb-4e3a-b294-5af2d66f2a4c",
+					"type": "Agama-trigger-Node",
 					"hasSuccess": false,
 					"hasFailure": false,
 					"hasRepeat": false,
@@ -38,13 +38,13 @@
 					"flowfilename": "",
 					"assignments": [
 						{
-							"variableTypeCheck": false,
-							"assignmentExpression": "captchaCode",
-							"assignedVariableName": "DisplayCaptcha"
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
 						}
 					],
 					"callType": "Call static method",
-					"arguments": "",
+					"arguments": "DisplayCaptcha",
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
@@ -64,9 +64,10 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}",
-					"nodeIcon": "material-symbols:equal"
-				},
-				"skake": false
+					"nodeIcon": "fluent-mdl2:trigger-approval",
+					"flowFileName": "displaycaptcha",
+					"asssignedVariableName": "(captchaCode)"
+				}
 			},
 			"selected": true,
 			"dragging": false,
@@ -663,10 +664,10 @@
 			}
 		},
 		{
-			"id": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89-Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523-784dedfe-f32f-4e99-8979-5d1395ecdf62",
+			"id": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89-Agama-trigger-Node-561a969c-f5fb-4e3a-b294-5af2d66f2a4c-4b7a149f-6f54-47ee-a313-314b8fbe65da",
 			"type": "straight",
 			"source": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
-			"target": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
+			"target": "Agama-trigger-Node-561a969c-f5fb-4e3a-b294-5af2d66f2a4c",
 			"label": "",
 			"labelBgPadding": [
 				8,
