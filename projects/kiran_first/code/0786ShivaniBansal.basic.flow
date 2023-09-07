@@ -10,4 +10,4 @@ When isBob is false
      // 
      captchaCode = GenerateCaptcha()
      // 
-     DisplayCaptcha = captchaCode
+     (captchaCode) = Trigger displaycaptcha DisplayCaptcha
