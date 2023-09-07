@@ -39,7 +39,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": false,
-							"assignmentExpression": "(captchaCode)",
+							"assignmentExpression": "captchaCode",
 							"assignedVariableName": "DisplayCaptcha"
 						}
 					],
@@ -65,7 +65,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -140,7 +141,7 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": false,
 			"dragging": false,
