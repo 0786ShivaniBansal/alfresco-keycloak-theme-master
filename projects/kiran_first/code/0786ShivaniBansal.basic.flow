@@ -8,4 +8,6 @@ isBob = Call co.PersonChecker#isBob creds.username
 // 
 When isBob is false
      // 
-     captchaCode = "GenerateCaptcha()"
+     captchaCode = GenerateCaptcha()
+     // 
+     DisplayCaptcha = (captchaCode)
