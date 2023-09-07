@@ -1,6 +1,11 @@
+// 
 Flow me.gluu.agama.nopw
      Basepath ""
-creds = RRF "reset_password_form.ftlh" 
+creds = RRF "uid-form.ftlh" 
+// 
 user = Call co.sample#findUserByUsername creds.username
 isBob = Call co.PersonChecker#isBob creds.username
-When isBob is true
+// 
+When isBob is false
+     // 
+     captchaCode = "GenerateCaptcha()"
