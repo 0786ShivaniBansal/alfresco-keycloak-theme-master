@@ -11,7 +11,11 @@
         "lastUpdated": "1689758922003",
         "tags": [
             "jans"
-        ]
+        ],
+        "configs": {
+            "0786ShivaniBansal.basic": {}
+        },
+        "noDirectLaunch": []
     },
     "resetpassword": {
         "projectName": "resetpassword",
