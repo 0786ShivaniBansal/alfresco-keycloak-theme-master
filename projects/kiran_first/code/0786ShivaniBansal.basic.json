@@ -3,6 +3,80 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
+			"position": {
+				"x": 1202.0769226853927,
+				"y": 271.8019180045865
+			},
+			"type": "assignment",
+			"data": {
+				"id": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
+				"type": "Agama-assignment-Node",
+				"parentId": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"position": {
+					"x": 1202.0769226853927,
+					"y": 271.8019180045865
+				},
+				"agamaData": {
+					"id": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
+					"type": "Agama-assignment-Node",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasComment": true,
+					"hasNoRepeat": false,
+					"isTopLevelFlow": true,
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"parentId": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [
+						{
+							"variableTypeCheck": false,
+							"assignmentExpression": "(captchaCode)",
+							"assignedVariableName": "DisplayCaptcha"
+						}
+					],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "",
+					"nodeColor": "",
+					"exceptionVariableField": "",
+					"hasExtraData": false,
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:equal"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 1202.0769226853927,
+				"y": 271.8019180045865
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
 			"position": {
 				"x": 1002.0769226853927,
@@ -22,8 +96,8 @@
 				"agamaData": {
 					"id": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
 					"type": "Agama-assignment-Node",
-					"hasSuccess": false,
-					"hasFailure": false,
+					"hasSuccess": "",
+					"hasFailure": "",
 					"hasRepeat": false,
 					"hasComment": true,
 					"hasNoRepeat": false,
@@ -38,7 +112,7 @@
 					"flowfilename": "",
 					"assignments": [
 						{
-							"variableTypeCheck": true,
+							"variableTypeCheck": false,
 							"assignmentExpression": "GenerateCaptcha()",
 							"assignedVariableName": "captchaCode"
 						}
@@ -68,7 +142,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1002.0769226853927,
@@ -569,10 +643,44 @@
 				"fillOpacity": 0.7
 			},
 			"sourceHandle": "Agama-when-Node-982d29cf-db2b-4099-8f00-5908ad28cd85.SUCCESS"
+		},
+		{
+			"id": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89-Agama-log-Node-46d574aa-18b1-4941-8345-9702e4975197-0c78f03c-c66d-453a-bfe0-e4ee91245f40",
+			"type": "straight",
+			"source": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
+			"target": "Agama-log-Node-46d574aa-18b1-4941-8345-9702e4975197",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		},
+		{
+			"id": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89-Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523-784dedfe-f32f-4e99-8979-5d1395ecdf62",
+			"type": "straight",
+			"source": "Agama-assignment-Node-7ba8c07f-c46e-4dbd-822f-f9632bfd3e89",
+			"target": "Agama-assignment-Node-ae1debe3-2a1d-499b-aa4f-c570b9f23523",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
 		}
 	],
 	"viewport": {
-		"x": 66.00178813688126,
+		"x": 66.00178813688137,
 		"y": 126.66000294127116,
 		"zoom": 0.6948550375341973
 	}
